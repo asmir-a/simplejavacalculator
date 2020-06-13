@@ -32,13 +32,11 @@
             <groupId>org.hamcrest</groupId>
             <artifactId>hamcrest-library</artifactId>
             <version>${hamcrestVersion}</version>
-            <scope>main</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
-            <scope>main</scope>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
