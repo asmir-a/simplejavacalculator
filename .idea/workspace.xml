@@ -20,555 +20,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69e3ffe5-ca31-4661-a45b-ca856da266f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/simplejavacalculator/AllTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simplejavacalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/simplejavacalculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/extensions/ActiveTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/extensions/RepeatedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/extensions/TestDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/extensions/TestSetup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/extensions/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/Assert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/AssertionFailedError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/ComparisonCompactor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/ComparisonFailure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/JUnit4TestAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/JUnit4TestAdapterCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/JUnit4TestCaseFacade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/Protectable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/TestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/TestFailure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/TestListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/TestResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/TestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/framework/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/runner/BaseTestRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/runner/TestRunListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/runner/Version.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/runner/Version.java.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/runner/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/textui/ResultPrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/textui/TestRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/junit/textui/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/After.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/AfterClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/Assert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/Assume.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/AssumptionViolatedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/Before.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/BeforeClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/ClassRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/ComparisonFailure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/FixMethodOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/Ignore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/Rule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/TestCouldNotBeSkippedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/ParallelComputer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/categories/Categories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/categories/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/categories/CategoryFilterFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/categories/CategoryValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/categories/ExcludeCategories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/categories/IncludeCategories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/max/CouldNotReadCoreException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/max/MaxCore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/max/MaxHistory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/results/FailureList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/results/PrintableResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/results/ResultMatchers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/runners/Enclosed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/DataPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/DataPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/FromDataPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/ParameterSignature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/ParameterSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/ParametersSuppliedBy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/PotentialAssignment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/Theories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/Theory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/internal/AllMembersSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/internal/Assignments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/internal/BooleanSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/internal/EnumSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/internal/ParameterizedAssertionError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/internal/SpecificDataPointsSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/suppliers/TestedOn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/experimental/theories/suppliers/TestedOnSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/function/ThrowingRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/ArrayComparisonFailure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/AssumptionViolatedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/Checks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/Classes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/ComparisonCriteria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/ExactComparisonCriteria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/InexactComparisonCriteria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/JUnitSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/MethodSorter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/RealSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/TextListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/Throwables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/AnnotatedBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/IgnoredBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/IgnoredClassRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/JUnit3Builder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/JUnit4Builder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/NullBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/builders/SuiteMethodBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/FakeRuntimeMXBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/FakeThreadMXBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/ManagementFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/ReflectiveRuntimeMXBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/ReflectiveThreadMXBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/RuntimeMXBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/management/ThreadMXBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/matchers/StacktracePrintingMatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/matchers/ThrowableCauseMatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/matchers/ThrowableMessageMatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/matchers/TypeSafeMatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/requests/ClassRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/requests/FilterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/requests/MemoizingRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/requests/OrderingRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/requests/SortingRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/requests/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/ClassRoadie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/ErrorReportingRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/FailedBefore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/InitializationError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/JUnit38ClassRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/JUnit4ClassRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/MethodRoadie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/MethodValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/SuiteMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/TestMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/model/EachTestNotifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/model/MultipleFailureException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/model/ReflectiveCallable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/rules/RuleMemberValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/rules/ValidationError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/statements/ExpectException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/statements/Fail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/statements/FailOnTimeout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/statements/InvokeMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/statements/RunAfters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/internal/runners/statements/RunBefores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/matchers/JUnitMatchers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/matchers/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/DisableOnDebug.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/ErrorCollector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/ExpectedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/ExpectedExceptionMatcherBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/ExternalResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/MethodRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/RuleChain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/RunRules.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/Stopwatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/TemporaryFolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/TestName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/TestRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/TestWatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/TestWatchman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/Timeout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/rules/Verifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/Describable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/Description.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/FilterFactories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/FilterFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/FilterFactoryParams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/JUnitCommandLineParseResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/JUnitCore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/OrderWith.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/OrderWithValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/Request.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/RunWith.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Alphanumeric.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Filter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Filterable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/InvalidOrderingException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/NoTestsRemainException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Orderable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Orderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Ordering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Sortable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/Sorter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/manipulation/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/notification/Failure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/notification/RunListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/notification/RunNotifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/notification/StoppedByUserException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/notification/SynchronizedRunListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/notification/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runner/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/BlockJUnit4ClassRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/JUnit4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/MethodSorters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/Parameterized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/ParentRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/RuleContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/Suite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/Annotatable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/FrameworkField.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/FrameworkMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/FrameworkMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/InitializationError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/InvalidTestClassError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/MemberValueConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/MultipleFailureException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/NoGenericTypeParametersValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/RunnerBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/RunnerScheduler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/Statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/model/TestTimedOutException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/parameterized/ParametersRunnerFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/runners/parameterized/TestWithParameters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/validator/AnnotationValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/validator/AnnotationValidatorFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/validator/AnnotationsValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/validator/PublicClassValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/validator/TestClassValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/junit/validator/ValidateWith.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/javadoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/junit/runner/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/junit/runner/smalllogo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/fml/faq.fml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/markdown/cookbook.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/css/carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/css/hopscotch-0.1.2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/css/junit-lambda.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/css/plain-links.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/42talents.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/adnovum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/arcbees.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/autotrader.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/bol.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/bouvet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/devnexus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/diffplug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/disy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/eclipse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/ergon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/gradle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/intellijidea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/klarna.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/klosebrothers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/msgsystems.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/murex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/netcetera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/novatec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/ociweb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/oio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/red6-es.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/samuraism.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/siili.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/sipgate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/six.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/sonrisa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/squeed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/structure101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/synyx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/tng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/topdesk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/vaddy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/contributors/zenika.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/junit-lambda-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/sponsors/amex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/sponsors/andrena.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/sponsors/heidelberg-mobil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/sponsors/namics.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-lambda/sponsors/pivotal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/images/junit5-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/scripts/hopscotch-0.1.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/resources/scripts/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/site.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/xdoc/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/xhtml/junit-lambda-campaign.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/xhtml/junit-lambda-contributors.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/xhtml/junit-lambda-spending.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/xhtml/junit-lambda.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/xhtml/junit5.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/SimpleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/money/IMoney.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/money/Money.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/money/MoneyBag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/money/MoneyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/money/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/samples/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/WasRun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/extensions/ActiveTestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/extensions/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/extensions/ExtensionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/extensions/RepeatedTestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/extensions/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/AssertTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/AssertionFailedErrorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/ComparisonCompactorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/ComparisonFailureTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/DoublePrecisionAssertTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/Failure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/FloatAssertTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/InheritedTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/NoArgTestCaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/NoTestCaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/NoTestCases.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/NotPublicTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/NotVoidTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/OneTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/OverrideTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/Success.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/SuiteTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/TestCaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/TestImplementorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/TestListenerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/ThreeTestCases.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/framework/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/BaseTestRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/ResultTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/StackFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/TextFeedbackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/TextRunnerSingleMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/TextRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/tests/runner/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/AssumptionViolatedExceptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/AllCategoriesTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/CategoriesAndParameterizedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/CategoryFilterFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/CategoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/CategoryValidatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/JavadocTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/experimental/categories/MultiCategoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/AllInternalTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/ArrayComparisonFailureTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/ChecksTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/MethodSorterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/StackTracesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/builders/AnnotatedBuilderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/matchers/StacktracePrintingMatcherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/matchers/ThrowableCauseMatcherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/runners/ErrorReportingRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/runners/statements/ExpectExceptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/AllRulesTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/BlockJUnit4ClassRunnerOverrideTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/ClassRulesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/DisableOnDebugTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/ErrorCollectorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/EventCollector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/ExpectedExceptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/ExternalResourceRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/LoggingMethodRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/LoggingStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/LoggingTestRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/LoggingTestWatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/MethodRulesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/NameRulesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/RuleChainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/RuleMemberValidatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/StopwatchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TempFolderRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TemporaryFolderRuleAssuredDeletionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TemporaryFolderUsageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TestRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TestWatcherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TestWatchmanTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/TimeoutRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/rules/VerifierRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/AllRunnerTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/FilterFactoriesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/FilterOptionIntegrationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/JUnitCommandLineParseResultTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/JUnitCoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/OrderWithValidatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/RequestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/RunnerSpy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/notification/AllNotificationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/notification/ConcurrentRunNotifierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/notification/RunNotifierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runner/notification/SynchronizedRunListenerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/AllRunnersTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/CustomBlockJUnit4ClassRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/RuleContainerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/model/AllModelTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/model/FrameworkFieldTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/model/FrameworkMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/model/InvalidTestClassErrorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/model/RunnerBuilderStub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/model/TestClassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/parameterized/AllParameterizedTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/parameterized/ParameterizedNamesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/runners/parameterized/TestWithParametersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/samples/AllSamplesTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/samples/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/samples/SimpleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/samples/money/MoneyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/samples/money/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/samples/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/ObjectContractTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/SampleJUnit4Tests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/TestSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/assertion/AllAssertionTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/assertion/AssertionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/assertion/ComparisonFailureTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/assertion/MultipleFailureExceptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/deprecated/AllDeprecatedTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/deprecated/JUnit4ClassRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/description/AllDescriptionTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/description/AnnotatedDescriptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/description/SuiteDescriptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/description/TestDescriptionMethodNameTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/description/TestDescriptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/AllExperimentalTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/AssumptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/MatcherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/max/AllMaxTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/max/DescriptionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/max/JUnit38SortingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/max/MaxStarterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/parallel/AllParallelTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/parallel/ParallelClassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/parallel/ParallelMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/results/AllResultsTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/results/PrintableResultTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/results/ResultMatchersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/AllTheoriesTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/AssumingInTheoriesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/ParameterSignatureTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/PotentialAssignmentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/TestedOnSupplierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/TheoryTestUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/Correspondent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/Guesser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/GuesserQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/MethodCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/ReguessableValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/StringableObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/Stub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/StubbedTheories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/extendingwithstubs/StubbedTheoriesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/internal/AllMembersSupplierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/internal/AllTheoriesInternalTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/internal/ParameterizedAssertionErrorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/internal/SpecificDataPointsSupplierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/AllTheoriesRunnerTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/FailingDataPointMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/SuccessfulWithDataPointFields.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/TheoriesPerformanceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/TypeMatchingBetweenMultiDataPointsMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/UnsuccessfulWithDataPointFields.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WhenNoParametersMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithAutoGeneratedDataPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithDataPointMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithExtendedParameterSources.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithNamedDataPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithOnlyTestAnnotations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithParameterSupplier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/experimental/theories/runner/WithUnresolvedGenericTypeVariablesOnTheoryParms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/AllJUnit3CompatibilityTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/AllTestsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/ClassRequestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/ForwardCompatibilityPrintingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/ForwardCompatibilityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/InitializationErrorForwardCompatibilityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/JUnit38ClassRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/JUnit4TestAdapterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/OldTestClassAdaptingListenerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/OldTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/junit3compatibility/SuiteMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/listening/AllListeningTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/listening/ListenerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/listening/RunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/listening/TestListenerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/listening/TextListenerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/listening/UserStopTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/AllManipulationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/AlphanumericOrdering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/ComparatorBasedOrdering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/Comparators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/FilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/FilterableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/OrderWithTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/OrderableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/ReverseAlphanumericOrdering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/ReverseAlphanumericSorter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/SingleMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/manipulation/SortableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/AllRunningTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/AllClassesTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/BlockJUnit4ClassRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/ClassLevelMethodsWithIgnoredTestsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/EnclosedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/IgnoreClassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/ParameterizedTestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/ParentRunnerFilteringTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/ParentRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/RunWithTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/SuiteTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/ThreadsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/UseSuiteAsASuperclassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/parent/ParentRunnerClassLoaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/classes/parent/TestWithClassRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/core/AllCoreTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/core/CommandLineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/core/JUnitCoreReturnsCorrectExitCodeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/core/MainRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/core/SystemExitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/AllMethodsTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/AnnotationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/ExpectedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/InheritedTestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/ParameterizedTestMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/TestMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/running/methods/TimeoutTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/validation/AllValidationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/validation/BadlyFormedClassesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/validation/FailedConstructionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/validation/ValidationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/validation/anotherpackage/Sub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/tests/validation/anotherpackage/Super.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/validator/AllValidatorTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/validator/AnnotationValidatorFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/validator/AnnotationsValidatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/junit/validator/PublicClassValidatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/junit/tests/runner/testRunAssumptionFailedResultCanBeReserialised_v4_12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/junit/tests/runner/testRunAssumptionFailedResultCanBeReserialised_v4_13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/junit/tests/runner/testRunFailureResultCanBeReserialised_v4_12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/junit/tests/runner/testRunSuccessResultCanBeReserialised_v4_12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/junit/tests/runner/testRunSuccessResultCanBeReserialised_v4_13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/org/junit/internal/arrayComparisonFailure_411" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/org/junit/internal/arrayComparisonFailure_412" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/SimpleJavaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/desktop.ini" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -580,11 +65,6 @@
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="junit-release" />
-      </list>
-    </option>
   </component>
   <component name="ProjectId" id="1d8RA1chrghN8Kr0sVd9CSSrT0F" />
   <component name="ProjectViewState">
@@ -592,16 +72,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../junit4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="simplejavacalculator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -615,7 +106,7 @@
       <updated>1591804587660</updated>
       <workItem from="1591804594032" duration="242000" />
       <workItem from="1591871738295" duration="3625000" />
-      <workItem from="1592043481007" duration="447000" />
+      <workItem from="1592043481007" duration="7729000" />
     </task>
     <servers />
   </component>
@@ -647,29 +138,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="864" y="107" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1591876396492" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592043649849">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592044481388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592043649849" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591877258590">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592044481388" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592068383923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591877258590" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591877258590">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592068383923" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592068383923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591877258590" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591877258590">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592068383923" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592068383923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591877258590" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591877258590">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592068383923" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592068383923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591877258590" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592068383923" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1592065227995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1592065227995" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1591876599636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591876599636" />
+    <state x="540" y="198" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592067103715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="198" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1592067103715" />
   </component>
 </project>
