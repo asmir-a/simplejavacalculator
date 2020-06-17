@@ -26,10 +26,6 @@ public class AllTests {
     public void addStressTest() {
         Calculator testCalculator = new Calculator();
         Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
-        Assert.assertEquals((Object) 0.0,               (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.normal, 0.0));
-
-        testCalculator = new Calculator();
-        Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
         Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, Double.NaN));
 
         testCalculator = new Calculator();
