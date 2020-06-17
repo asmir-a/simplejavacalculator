@@ -17,6 +17,7 @@ public class AllTests {
         Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
         Assert.assertEquals((Object) 3.1,               (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 3.1));
         Assert.assertEquals((Object) (-36.9),           (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, -40.0));
+        Assert.assertEquals((Object) (-36.9),           (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
         Assert.assertEquals((Object) 13.300000000000004,(Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 50.2));
         Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, Double.NaN));
     }
@@ -24,6 +25,10 @@ public class AllTests {
     @Test
     public void addStressTest() {
         Calculator testCalculator = new Calculator();
+        Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
+        Assert.assertEquals((Object) 0.0,               (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.normal, 0.0));
+
+        testCalculator = new Calculator();
         Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
         Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, Double.NaN));
 
@@ -225,5 +230,14 @@ public class AllTests {
         Assert.assertEquals((Object) 0.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.abs, 0.0));
         Assert.assertEquals((Object) 12.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.abs, 12.0));
         Assert.assertEquals((Object) 40.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.abs, -40.0));
+    }
+
+    @Test
+    public void equalResetTest() {
+        Calculator testCalculator = new Calculator();
+        Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.calculateBi(Calculator.BiOperatorModes.add, 0.0));
+        Assert.assertEquals((Object) 0.0,               (Object) testCalculator.calculateEqual(0.0));
+
+        Assert.assertEquals((Object) Double.NaN,        (Object) testCalculator.reset());
     }
 }
