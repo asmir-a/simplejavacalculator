@@ -189,8 +189,8 @@ public class AllTests {
     public void sinTest() {
         Calculator testCalculator = new Calculator();
         Assert.assertEquals((Object) 0.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.sin, 0.0));
-        Assert.assertEquals((Object) 0.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.sin, 270.0));
-        Assert.assertEquals((Object) 0.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.sin, 90.0));
+        Assert.assertEquals((Object) (-1.0), (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.sin, 270.0));
+        Assert.assertEquals((Object) 1.0, (Object) testCalculator.calculateMono(Calculator.MonoOperatorModes.sin, 90.0));
     }
 
     @Test
